@@ -17,7 +17,7 @@ Dataset:[<a href = https://github.com/Slyomeye/APPLE-DATA-2009-2024---EXPLORATOR
 -	Market valuation relative to earnings: PE ratio trends
 -	Debt Ratio: determined by the total liabilities per the total Assets
 -	Cash reserves, Asset utilization and employee productivity.
-## Created DAX Measures to determine values.
+##Created DAX Measures to determine values:
 -	Total Revenue = SUM (Revenue)
 -	Total Net Income = SUM (Net Income)
 -	Net Profit Margin = DIVIDE ([Total net income], [Total Revenue]) 
@@ -35,7 +35,7 @@ Dataset:[<a href = https://github.com/Slyomeye/APPLE-DATA-2009-2024---EXPLORATOR
 -	Average EPS = AVERAGE (EPS)
 -	Operating Margin = DIVIDE ([Total Operating income], [Total Revenue]) 
 -	Equity = ([Total Assets] – [Total Liabilities])
- ##Dashboard:[<a href = https://github.com/Slyomeye/APPLE-DATA-2009-2024---EXPLORATORY-ANALYSIS/blob/main/APPLE.pbit >Dashboard</a>]
+ ## Dashboard:[<a href = https://github.com/Slyomeye/APPLE-DATA-2009-2024---EXPLORATORY-ANALYSIS/blob/main/APPLE.pbit >Dashboard</a>]
 -	Line charts: EBITDA, Net Profit Margin, PE Ratio trends over time
 -	Scatter chart: Cash Vs Long Term Debt
 -	Area Chart: Total Assets Vs Total Liabilities
