@@ -35,7 +35,7 @@ Dataset:[<a href = https://github.com/Slyomeye/APPLE-DATA-2009-2024---EXPLORATOR
 -	Average EPS = AVERAGE (EPS)
 -	Operating Margin = DIVIDE ([Total Operating income], [Total Revenue]) 
 -	Equity = ([Total Assets] – [Total Liabilities])
- ##Dashboard:
+ ##Dashboard:[<a href = https://github.com/Slyomeye/APPLE-DATA-2009-2024---EXPLORATORY-ANALYSIS/blob/main/APPLE.pbit >Dashboard</a>]
 -	Line charts: EBITDA, Net Profit Margin, PE Ratio trends over time
 -	Scatter chart: Cash Vs Long Term Debt
 -	Area Chart: Total Assets Vs Total Liabilities
