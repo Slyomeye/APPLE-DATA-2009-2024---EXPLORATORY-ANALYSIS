@@ -42,7 +42,7 @@ Dataset:[<a href = https://github.com/Slyomeye/APPLE-DATA-2009-2024---EXPLORATOR
 -	Column Chart: Gross Margin Vs Operating Margin
 -	KPI’s
 -	Slicer: Year
-#INSIGHTS
+##INSIGHTS
 Profitability Margin
 -	The net profit margin increased from 21% in 2020 to 25% in 2023 before a slight dip in 2024.
 -	The EBITDA margin improved from 28% in 2020 to 34% in 2024 reflecting good operational strength.
@@ -57,11 +57,11 @@ Market Performance
 -	PE (Price to Earnings) Ratio peaked at 40 in 2024 meaning investor optimism or overvaluation risk.
 -	The PE ratio fluctuates, suggesting varying market sentiments.
 
-#RECOMMENDATIONS
+##RECOMMENDATIONS
 -	Monitor debt levels closely, consider debt management strategies: long-term debts need to be reduced or avoided to improve the balance sheet health.
 -	The leverage of employee efficiency with strategic hiring in respect to revenue growth to sustain productivity gains.
 -	Enhancing of cash flow management especially as cash on hand is shrinking despite profits.
 -	Communicating of margin growth and its efficiency gains clearly to investors to justify the high PE (Price to Earnings) valuation.
 -	Preparation of possible PE correction if growth slows either to diversify the revenue or increase dividends to retain confidence of investors.
-#CONCLUSION
+##CONCLUSION
 Apple has demonstrated resilient growth and operational excellence, driven by innovation and strategic financial management. However, rising debt and market expectations require proactive measures like continued innovation and cost management for sustained growth.
