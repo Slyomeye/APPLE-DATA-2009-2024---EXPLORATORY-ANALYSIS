@@ -1,7 +1,7 @@
 # APPLE-DATA-2009-2024---EXPLORATORY-ANALYSIS
 I developed a project in power BI, Data collection, Data Cleaning, Data Analysis, Data Visualization
 ## Objective: Analyze Apple’s financial trends, profitability, operational efficiency and market valuation to inform strategic decision making
-Dataset:
+Dataset:[-<a href = https://github.com/Slyomeye/APPLE-DATA-2009-2024---EXPLORATORY-ANALYSIS/blob/main/Apple%202009-2024.csv >Dataset</a>]
 ## Data Collection: I imported the dataset into power BI Desktop using “Get Data” and proceeded to transform the data using power Query Editor.
 ## Data Cleaning:
 -	Checked for null values in all the key financial columns.
