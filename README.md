@@ -17,7 +17,7 @@ Dataset:[<a href = https://github.com/Slyomeye/APPLE-DATA-2009-2024---EXPLORATOR
 -	Market valuation relative to earnings: PE ratio trends
 -	Debt Ratio: determined by the total liabilities per the total Assets
 -	Cash reserves, Asset utilization and employee productivity.
-##Created DAX Measures to determine values:
+## Created DAX Measures to determine values:
 -	Total Revenue = SUM (Revenue)
 -	Total Net Income = SUM (Net Income)
 -	Net Profit Margin = DIVIDE ([Total net income], [Total Revenue]) 
